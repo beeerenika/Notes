@@ -1,0 +1,7 @@
+# adding an existing project: 
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+ - create repo on GitHub without initializing it with ReadMe file
+  - create directory locally -> initialize it -> add actual files - > add files to the index -> commit canges -> push to GitHub
+  
+# creating file on-line:
+ - create file in the repository -> commit changes -> pull to local directory
